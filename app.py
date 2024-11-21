@@ -1,1 +1,1 @@
-print("Write you secret message i.e username and passcode")
+print("Writegit you secret message that would be  username and passcode")
