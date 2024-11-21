@@ -1,1 +1,1 @@
-print("Write you secret message here gits")
+print("Write you secret message hre gits")
